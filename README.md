@@ -31,6 +31,7 @@ Serving Indian, Chinese, Continental & Wood Fired Pizza for over 15 years.
 - 🟡 Gold animated hover underline
 - 🌟 Logo glow hover effect
 - 📱 Smooth slide mobile menu
+- 🖱️ Interactive hamburger menu (JS)
 - 🎬 Hero background image support
 
 ---
@@ -39,6 +40,7 @@ Serving Indian, Chinese, Continental & Wood Fired Pizza for over 15 years.
 
 - HTML5
 - CSS3 (Flexbox & Grid)
+- JavaScript (Vanilla JS)
 - Google Fonts
 
 No frameworks used. Pure frontend implementation.
@@ -53,6 +55,7 @@ woodpecker-restaurant-website/
 │
 ├── index.html
 ├── styles.css
+├── script.js
 │
 └── images/
     ├── woodpecker-logo.png
